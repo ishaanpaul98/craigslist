@@ -1,0 +1,223 @@
+html, body {
+	margin: 0%; 
+    padding: 0%;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+h1 {
+	text-align: left;
+	font-size: 1vw;
+	font-weight: 100;
+	margin-bottom: 0%;
+	margin-left: 5%;
+	padding: 0%;
+	font-family: 'Lora', serif;
+}
+
+h2 {
+	font-family: 'Lora', serif;
+	font-size: 2.5vw;
+	padding: 0%;
+	margin-left: 17%;
+	margin-top: 1%;
+}
+
+h3 {
+	font-family: 'Lora', serif;
+	text-align: center;
+	font-size: 1vw;
+	padding: 0;
+	margin-top: 30%;
+}
+
+h4 {
+	text-align: center;
+	padding-left: 3%;
+	font-size: 1.5vw;
+	font-weight: 600;
+	margin-bottom: 0%;
+	margin-top: 15%;
+	font-family: 'Lora', serif;
+}
+
+h5 {
+	font-family: 'Lora', serif;
+	font-size: 1.2vw;
+	font-weight: 100;
+	padding: 0%;
+	margin-left: 1%;
+	margin-top: 19%;
+}
+
+h6 {
+	text-align: center;
+	font-size: 1vw;
+	font-weight: 100;
+	color: white;
+	font-family: 'Lora', serif;
+	margin-top: 2%;
+}
+
+h7 {
+	font-family: 'Lora', serif;
+	font-size: 1.3vw;
+	font-weight: 700;
+}
+
+h8 {
+	font-family: 'Lora', serif;
+	font-size: 1.3vw;
+	font-weight: 100;
+}
+
+.logo {
+	position: relative;
+	width: 18%;
+	margin-left: 0%;
+}
+
+.create_post {
+	position: relative;
+	width: 29%;
+	height: 80%;
+	font-size: 1.2vw;
+	cursor: pointer;
+	background-color: #660099;
+	color: white;
+	text-align: center;
+	border: none;
+	float: left;
+	margin: 1.5%;
+	font-family: 'Lora', serif;
+	font-weight: 100;
+}
+
+.login {
+	position: relative;
+	width: 29%;
+	height: 80%;
+	font-size: 1.2vw;
+	cursor: pointer;
+	background-color: #660099;
+	color: white;
+	text-align: center;
+	border: none;
+	float: left;
+	margin: 1.5%;
+	font-family: 'Lora', serif;
+	font-weight: 100;
+}
+
+.sign_up {
+	position: relative;
+	width: 29%;
+	height: 80%;
+	font-size: 1.2vw;
+	cursor: pointer;
+	background-color: #660099;
+	color: white;
+	text-align: center;
+	border: none;
+	float: left;
+	margin: 1.5%;
+	font-family: 'Lora', serif;
+	font-weight: 100;
+}
+
+.map {
+	position: relative;
+	width: 90%;
+	padding-left: 4.5%;
+	padding-top: 10%;
+}
+
+.photo {
+	position: relative;
+	float: left;
+	width: 50%;
+	padding: 1%;
+	margin-top: -3%;
+}
+
+.calender {
+	position: relative;
+	width: 80%;
+	padding-left: 9%;
+	padding-top: 2%;
+}
+
+#buttons {
+	position: absolute;
+	width: 23%;
+	height: 40%;
+	margin-left: 72.5%;
+	margin-top: -9%;
+}
+
+#header {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+#inner_header {
+	position: relative;
+	background-color: #d1b2e0;
+	padding-left: 4%;
+	padding-top: 3%;
+	padding-bottom: 0%;
+	margin-top: -7%;
+	margin-right: -3%;
+	margin-left: -3%;
+	width: 100%;
+	height: 9.2vw;
+}
+
+#left_side {
+	position: absolute;
+	background-color: #99add6;	
+	margin-top: 5.3%;
+	width: 20%;
+	height: 60vw;
+	float: left;
+}
+
+#right_side {
+	background-color: white;
+	position: absolute;
+	margin-top: 5.3%;
+	margin-left: 20%;
+	width: 80%;
+	height: 60vw;
+}
+
+#bottom {
+	background-color: #3d005b;
+	position: absolute;
+	margin-top: 65%;
+	width: 100%;
+	height: 8vw;
+}
+
+#searchbar {
+	position: absolute;
+	width: 50%;
+	height: 40%;
+	margin-left: 20%;
+	margin-top: -9%;
+}
+
+#searchbar input {
+	position: relative;
+	width: 100%;
+	margin-top: 1.8%;
+	height: 50%;
+	font-size: 1.3vw;
+}
+
+
+
