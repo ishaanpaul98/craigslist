@@ -1,0 +1,243 @@
+html, body {
+	margin: 0; 
+    padding: 0%;
+    overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+h1 {
+	text-align: left;
+	padding-left: 3%;
+	font-size: 2vw;
+	margin-bottom: 0%;
+	font-family: 'Lora', serif;
+}
+
+h2 {
+	text-align: left;
+	padding-left: 3.5%;
+	font-size: 1.5vw;
+	font-weight: 100;
+	margin-bottom: 0%;
+	margin-top: 1%;
+	font-family: 'Lora', serif;
+}
+
+h3 {
+	text-align: left;
+	padding-left: 3%;
+	font-size: 1.5vw;
+	font-weight: 600;
+	margin-bottom: 0%;
+	margin-top: 10%;
+	font-family: 'Lora', serif;
+}
+
+h4 {
+	text-align: center;
+	padding-left: 3%;
+	font-size: 1.5vw;
+	font-weight: 600;
+	margin-bottom: 0%;
+	margin-top: 15%;
+	font-family: 'Lora', serif;
+}
+
+h5 {
+	text-align: center;
+	font-size: 2vw;
+	margin-top: -4%;
+	font-family: 'Lora', serif;
+}
+
+h6 {
+	text-align: center;
+	font-size: 1vw;
+	font-weight: 100;
+	color: white;
+	font-family: 'Lora', serif;
+	margin-top: 2%;
+}
+
+select {
+	margin-left: 35%;
+	margin-top: -9%;
+	width: 55%;
+	height: 4%;
+	font-size: 1.2vw;
+	font-family: 'Lora', serif;
+}
+
+.logo {
+	position: relative;
+	width: 18%;
+	margin-left: 0%;
+}
+
+.create_post {
+	position: relative;
+	width: 29%;
+	height: 80%;
+	font-size: 1.2vw;
+	cursor: pointer;
+	background-color: #660099;
+	color: white;
+	text-align: center;
+	border: none;
+	float: left;
+	margin: 1.5%;
+	font-family: 'Lora', serif;
+	font-weight: 100;
+}
+
+.login {
+	position: relative;
+	width: 29%;
+	height: 80%;
+	font-size: 1.2vw;
+	cursor: pointer;
+	background-color: #660099;
+	color: white;
+	text-align: center;
+	border: none;
+	float: left;
+	margin: 1.5%;
+	font-family: 'Lora', serif;
+	font-weight: 100;
+}
+
+.sign_up {
+	position: relative;
+	width: 29%;
+	height: 80%;
+	font-size: 1.2vw;
+	cursor: pointer;
+	background-color: #660099;
+	color: white;
+	text-align: center;
+	border: none;
+	float: left;
+	margin: 1.5%;
+	font-family: 'Lora', serif;
+	font-weight: 100;
+}
+
+.map {
+	position: relative;
+	width: 90%;
+	padding-left: 4.5%;
+	padding-top: 10%;
+}
+
+.calender {
+	position: relative;
+	width: 80%;
+	padding-left: 9%;
+	padding-top: 2%;
+}
+
+.icons {
+	position: relative;
+	width: 100%;
+	padding-top: 0%;
+}
+
+#buttons {
+	position: absolute;
+	width: 23%;
+	height: 40%;
+	margin-left: 72.5%;
+	margin-top: -9%;
+}
+
+#header {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+#inner_header {
+	position: relative;
+	background-color: #d1b2e0;
+	padding-left: 4%;
+	padding-top: 3%;
+	padding-bottom: 0%;
+	margin-top: -7%;
+	margin-right: -3%;
+	margin-left: -3%;
+	width: 100%;
+	height: 9.2vw;
+}
+
+#searchbar {
+	position: absolute;
+	width: 50%;
+	height: 40%;
+	margin-left: 20%;
+	margin-top: -9%;
+}
+
+#searchbar input {
+	position: relative;
+	width: 100%;
+	margin-top: 1.8%;
+	height: 50%;
+	font-size: 1.3vw;
+}
+
+#left_side {
+	position: absolute;
+	background-color: #99add6;
+	margin-top: 5.3%;
+	width: 20%;
+	height: 55vw;
+	float: left;
+}
+
+#right_side {
+	background-color: white;
+	position: absolute;
+	margin-top: 5.3%;
+	margin-left: 20%;
+	width: 80%;
+	height: 55vw;
+}
+
+#bottom {
+	background-color: #3d005b;
+	position: absolute;
+	margin-top: 55%;
+	width: 100%;
+	height: 8vw;
+}
+
+#column_1 {
+	background-color: white;
+	position: absolute;
+	width: 33.3%;
+	height: 100%;
+}
+
+#column_2 {
+	background-color: white;
+	position: absolute;
+	margin-left: 33.3%;
+	width: 33.3%;
+	height: 100%;
+}
+
+#column_3 {
+	background-color: white;
+	position: absolute;
+	margin-left: 66.6%;
+	width: 33.3%;
+	height: 100%;
+}
+
+
+
+
